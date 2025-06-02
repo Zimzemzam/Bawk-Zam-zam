@@ -1,3 +1,3 @@
 # Bawk Zam
 
-A multiplayer card game.
+Bawk Zim Zem ang aw.
