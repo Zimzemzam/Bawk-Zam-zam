@@ -1,1 +1,3 @@
-# Bawk-Zam-zam
+# Bawk Zam
+
+A multiplayer card game.
